@@ -23,7 +23,7 @@ you need to prepare at least one carrier image, in this rep is 'carrier.png'.
 ## Step2. [Optional] Prepare a QR code
 this step is optional, if you wanna use yourself QR code, you can skip this step.
 
-[Note]: Carrier image must BIGER than QR code in pixel size;
+[Note]: Carrier image must BIGGER than QR code in pixel size;
 
 you can also use this command to generate a QR code, saved as 'my_qrcode.png'
 
